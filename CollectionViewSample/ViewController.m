@@ -29,7 +29,6 @@
 
 }
 
-
 -(void)getAllGalleryImages{
     __block PHAssetCollection *collection;
     
@@ -81,6 +80,5 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
-
 
 @end
